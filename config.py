@@ -1,0 +1,4 @@
+BOT_TOKEN = "8784067437:AAFk_uuYItpKYiIpaAzqqTAdFzdrxw9paZY"
+
+
+CHECK_INTERVAL = 10  # секунд
